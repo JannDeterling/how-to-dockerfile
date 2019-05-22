@@ -1,4 +1,4 @@
-#How to build a docker image
+# How to build a docker image
 
 ```bash
 docker build -t magic-nginx .
