@@ -1,4 +1,4 @@
-# Use an official Nginex distribution as a parent image
+# Use an official Nginx distribution as a parent image
 FROM nginx
 
 # Set the working directory to /usr/share/nginx/html
